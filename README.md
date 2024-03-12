@@ -41,13 +41,13 @@ Aqui estão algumas das linguagens de programação e tecnologias que ja tive co
 
 ## 📫 Contato
 
-![Gmail Badge](https://img.shields.io/badge/-annaa0478@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{annaa0478@gmail.com})
-[![Linkedin: Douglas](https://img.shields.io/badge/-annagabriela-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anna-gabriela/)]([https://www.linkedin.com/in/devellendias/](https://www.linkedin.com/in/anna-gabriela/))
+![Gmail Badge](https://img.shields.io/badge/-doyklas@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{doyklas@gmail.com})
+[![Linkedin: Douglas](https://img.shields.io/badge/-doyklas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/doyklas/)]([https://www.linkedin.com/in/devellendias/](https://www.linkedin.com/in/doyklas/))
 <br><br>
 
-![](https://github-readme-stats.vercel.app/api?username=annaagabi&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false) <br><br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=annaagabi&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=annaagabi&custom_title=Al%20Anna-Gabriela's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![](https://github-readme-stats.vercel.app/api?username=doyklas&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false) <br><br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=doyklas&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=doyklas&custom_title=Al%20Douglas-Henrique's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 
 <!--
@@ -63,7 +63,7 @@ Aqui estão algumas das linguagens de programação e tecnologias que ja tive co
 -->
 
 ### Número de visitantes no perfil
-![Profile Counters](https://profile-counter.glitch.me/annaagabi/count.svg) <br><br>
+![Profile Counters](https://profile-counter.glitch.me/Doyklas/count.svg) <br><br>
 
 
 
