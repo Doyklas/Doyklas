@@ -11,8 +11,8 @@ https://roypriyanshu02.github.io/impressive-profile-readmes/
 ## 💼 Perfil
 
 - 💻 Estudante de Programação
-- 🎓 Cursando Bacharelado de Ciências da Computação na FMU 
-- 🎓 CursandoTécnico de Desenvolvimento de Sistemas no Senai Suiço-Brasileira "Paulo Ernesto Tolle"
+- 🎓 Cursando Técnico de Desenvolvimento de Sistemas no SENAI Suiço-Brasileira "Paulo Ernesto Tolle"
+- 🎓 Formato em Técnico em Eletroeletrica no SENAI "Conde José Vicente Azevedo"
 
 <!--  
 ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
