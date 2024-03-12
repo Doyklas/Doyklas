@@ -3,7 +3,7 @@ inspirações de readme:
 https://roypriyanshu02.github.io/impressive-profile-readmes/
 -->
 
-![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=orange&background=000000EE&center=true&vCenter=true&multiline=true&width=1920&height=384&lines=Olá!;Meu+nome+é+Douglas+Henrique;Bem-vindo+ao+meu+README)
+![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=ff9933&background=000000EE&center=true&vCenter=true&multiline=true&width=1920&height=384&lines=Olá!;Meu+nome+é+Douglas+Henrique;Bem-vindo+ao+meu+README)
 
 <!--  
 ### 💜 Olá, meu nome é Anna Gabriela!
