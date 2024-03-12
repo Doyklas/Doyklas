@@ -3,7 +3,7 @@ inspirações de readme:
 https://roypriyanshu02.github.io/impressive-profile-readmes/
 -->
 
-![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=930BFF&background=000000EE&center=true&vCenter=true&multiline=true&width=1920&height=384&lines=Olá!;Meu+nome+é+Douglas+Henrique;Bem-vindo+ao+meu+README)
+![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=orange&background=000000EE&center=true&vCenter=true&multiline=true&width=1920&height=384&lines=Olá!;Meu+nome+é+Douglas+Henrique;Bem-vindo+ao+meu+README)
 
 <!--  
 ### 💜 Olá, meu nome é Anna Gabriela!
@@ -12,7 +12,7 @@ https://roypriyanshu02.github.io/impressive-profile-readmes/
 
 - 💻 Estudante de Programação
 - 🎓 Cursando Técnico de Desenvolvimento de Sistemas no SENAI Suiço-Brasileira "Paulo Ernesto Tolle"
-- 🎓 Formato em Técnico em Eletroeletrica no SENAI "Conde José Vicente Azevedo"
+- 🎓 Formato em Técnico em Eletroeletronica no SENAI "Conde José Vicente Azevedo"
 
 <!--  
 ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
