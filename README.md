@@ -11,8 +11,8 @@ https://roypriyanshu02.github.io/impressive-profile-readmes/
 ## 💼 Perfil
 
 - 💻 Estudante de Programação
-- 🎓 Cursando Técnico de Desenvolvimento de Sistemas no SENAI Suiço-Brasileira "Paulo Ernesto Tolle"
-- 🎓 Formato em Técnico em Eletroeletronica no SENAI "Conde José Vicente Azevedo"
+- 🎓 Cursando  - Técnico de Desenvolvimento de Sistemas no SENAI Suiço-Brasileira "Paulo Ernesto Tolle"
+- 🎓 Concluido - Técnico em Eletroeletronica no SENAI "Conde José Vicente Azevedo"
 
 <!--  
 ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
