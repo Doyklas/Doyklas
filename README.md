@@ -73,7 +73,7 @@ Aqui estão algumas das linguagens de programação e tecnologias que ja tive co
 -->
 
 <!--
-**annaagabi/annaagabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=annaagabi&show_icons=true)
 Here are some ideas to get you started:
 
